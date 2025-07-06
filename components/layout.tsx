@@ -14,7 +14,7 @@ export default function Layout({ children, title = "Trivia Time" }: LayoutProps)
         <title>{title}</title>
         <meta name="description" content="Test your knowledge with Trivia Time!" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </Head>
       <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900">
         <div className="absolute inset-0 bg-[url('/placeholder.svg?height=100&width=100')] opacity-5"></div>
