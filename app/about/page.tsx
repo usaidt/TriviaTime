@@ -38,16 +38,7 @@ export default function About() {
                   HackClub Reactive Event - Showcasing modern web development with React and Next.js
                 </p>
               </div>
-
-                adasdasdsad
-                dsadsadsa
-                dsadsadsadsa
-                dsadsadsadsas
-                ss
-                aasdssss
-
-
-
+              
               {/* Features */}
               <div>
                 <h3 className="text-xl md:text-2xl font-semibold text-white mb-4">Features</h3>
